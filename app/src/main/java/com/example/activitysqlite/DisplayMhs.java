@@ -1,4 +1,4 @@
-package com.example.datamahasiswa;
+package com.example.activitysqlite;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.app.AlertDialog;
